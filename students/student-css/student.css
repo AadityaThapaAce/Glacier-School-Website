@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: black;
+}
+
+#name-heading {
+  text-align: center;
+  color: white;
+}
+
+#student-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  height: auto;
+  border: 5px solid white;
+  border-radius: 50%;
+}
+
+.student-info {
+  text-align: center;
+  color: white;
+}

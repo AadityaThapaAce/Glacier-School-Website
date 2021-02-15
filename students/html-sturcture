@@ -3,13 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Safal</title>
+    <title></title>
     <link rel="stylesheet" href="student-css/student.css" />
   </head>
   <body>
-    <h1 id="name-heading">Safal Kc</h1>
-    <img id="student-logo" src="Student-logo/13.jpg" alt="Student logo" />
-    <h2 class="student-info">Name: Safal Kc</h2>
-    <h2 class="student-info">Roll No: 13</h2>
+    <h1 id="name-heading"></h1>
+    <img id="student-logo" src="Student-logo/" alt="Student logo" />
+    <h2 class="student-info">Name:</h2>
+    <h2 class="student-info">Roll No:</h2>
   </body>
 </html>
